@@ -25,7 +25,7 @@ clean:
 	rm -f RRT
 
 RRT: RRT.o 
-	$(CXX) $(CXXFLAGS) $(INCLUDE_FLAGS) -o RRT RRT.o  $(LD_FLAGS)
+	$(CXX) $(CXXFLAGS) $(INCLUDE_FLAGS) -o RRT RRT.o MyRigidBodyPlanning MyRigidBodyPlanning.cpp  $(LD_FLAGS)
 
 %.o: %.cpp
 	$(CXX) -c $(CXX_FLAGS) $(INCLUDE_FLAGS) $< -o $@
