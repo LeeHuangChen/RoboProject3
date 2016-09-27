@@ -291,6 +291,19 @@ int main(int, char **)
     obstacle.width = 1.0;
     obstacle.height = 1.0;
     obstacles.push_back(obstacle);
+    Rectangle obstacle1;
+    obstacle1.x = -1.5;
+    obstacle1.y = 0.0;
+    obstacle1.width = 0.5;
+    obstacle1.height = 2.0;
+    obstacles.push_back(obstacle1);
+    Rectangle obstacle2;
+    obstacle2.x = 0.0;
+    obstacle2.y = -1.5;
+    obstacle2.width = 2.0;
+    obstacle2.height = 0.5;
+    obstacles.push_back(obstacle2);
+    
 
     int choice;
     do
