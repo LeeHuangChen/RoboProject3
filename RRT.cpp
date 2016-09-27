@@ -149,12 +149,12 @@ ompl::base::PlannerStatus ompl::geometric::RRT::solve(const base::PlannerTermina
         tempMotions.clear();
 
         /* find state to add */
-        double d = si_->distance(nmotion->state, rstate);
-        if (d > maxDistance_)
-        {
-            si_->getStateSpace()->interpolate(nmotion->state, rstate, maxDistance_ / d, xstate);
-            dstate = xstate;
-        }
+        // double d = si_->distance(nmotion->state, rstate);
+        // if (d > maxDistance_)
+        // {
+        //     si_->getStateSpace()->interpolate(nmotion->state, rstate, maxDistance_ / d, xstate);
+        //     dstate = xstate;
+        // }
 
         if (si_->checkMotion(nmotion->state, dstate))
         {
