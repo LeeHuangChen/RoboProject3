@@ -139,6 +139,14 @@ ompl::base::PlannerStatus ompl::geometric::RRT::solve(const base::PlannerTermina
         Motion *nmotion = nn_->nearest(rmotion);
         base::State *dstate = rstate;
 
+        /*find a random motion in the tree*/
+        std::vector<Motion*> tempMotions;
+        nn_->list(tempMotions);
+        int randInt = (int) (tempMotions.size()*rng_.uniform01() );
+        Motion* rMotionPtr = tempMotions[randInt];
+
+        tempMotions.clear();
+
         /* find state to add */
         double d = si_->distance(nmotion->state, rstate);
         if (d > maxDistance_)
