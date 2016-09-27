@@ -136,14 +136,15 @@ ompl::base::PlannerStatus ompl::geometric::RRT::solve(const base::PlannerTermina
             sampler_->sampleUniform(rstate);
 
         /* find closest state in the tree */
-        Motion *nmotion = nn_->nearest(rmotion);
-        base::State *dstate = rstate;
+        //Motion *nmotion = nn_->nearest(rmotion);
+        //base::State *dstate = rstate;
 
         /*find a random motion in the tree*/
         std::vector<Motion*> tempMotions;
         nn_->list(tempMotions);
         int randInt = (int) (tempMotions.size()*rng_.uniform01() );
-        Motion* rMotionPtr = tempMotions[randInt];
+        Motion* nmotion = tempMotions[randInt];
+        base::State *dstate = rstate;
 
         tempMotions.clear();
 
