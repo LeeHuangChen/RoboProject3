@@ -294,7 +294,7 @@ int main(int, char **)
     Rectangle obstacle1;
     obstacle1.x = -1.5;
     obstacle1.y = 0.0;
-    obstacle1.width = 0.5;
+    obstacle1.width = 1.0;
     obstacle1.height = 2.0;
     obstacles.push_back(obstacle1);
     Rectangle obstacle2;
