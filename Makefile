@@ -14,6 +14,7 @@ CXX_FLAGS=-std=c++11 -O2
 INCLUDE_FLAGS=-I${OMPL_DIR}/include
 # Linker options
 LD_FLAGS=-L${OMPL_DIR}/lib -lompl -Wl,-rpath ${OMPL_DIR}/lib
+#LD_FLAGS=-L${OMPL_DIR}/lib -libompl -libompl_app -libompl_app_base -libboost_system -lompl -Wl,-rpath ${OMPL_DIR}/lib
 
 # The c++ compiler to invoke
 CXX=c++
