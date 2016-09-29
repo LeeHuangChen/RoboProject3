@@ -209,8 +209,20 @@ void planWithSimpleSetupSE2(const std::vector<Rectangle>& obstacles)
 }
 
 
-
+Rectangle box(int x, int y, double width, double height){
+    Rectangle obstacle;
+    obstacle.x = x;
+    obstacle.y = y;
+    obstacle.width = width;
+    obstacle.height = height;
+    return obstacle;
+    
+}
 void addObstacles1(std::vector<Rectangle>* obs){
+    
+    // obs->push_back(box(-0.5,-0.5,1.0,1.0));
+    // obs->push_back(box(-1.5,0,1,2));
+    // obs->push_back(box(0,-1.5,2,0.5));
     Rectangle obstacle;
     obstacle.x = -0.5;
     obstacle.y = -0.5;
@@ -235,6 +247,12 @@ void addObstacles2(std::vector<Rectangle>* obs){
     obstacle1.x = -1.5;
     obstacle1.y = 0.0;
     obstacle1.width = 1.0;
+    obstacle1.height = 2.0;
+    obs->push_back(obstacle1);
+    Rectangle obstacle2;
+    obstacle2.x = -1.5;
+    obstacle2.y = 0.0;
+    obstacle2.width = 1.0;
     obstacle1.height = 2.0;
     obs->push_back(obstacle1);
 }

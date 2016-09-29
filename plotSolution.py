@@ -10,14 +10,26 @@ def plotAxisAlignedBox(x,y,width,height,ax):
     y2=y+height
     ax.add_patch(patches.Polygon([(x,y2),(x,y),(x2,y),(x2,y2)], fill=True, color='0.20'))
 
+def plot1(ax):
+    plotAxisAlignedBox(-.5,-.5,1,1,ax)
+    plotAxisAlignedBox(-1.5,0,1,2,ax)
+    plotAxisAlignedBox(0,-1.5,2,.5,ax)
 
+def plot2(ax):
+    plotAxisAlignedBox(-1.5,0,1,2,ax)
 # Draw some obstacles
 def plotObstacles(ax):
     # Drawing the unit square
     #ax.add_patch(patches.Polygon([(-0.5,0.5),(-0.5,-0.5),(0.5,-0.5),(0.5,0.5)], fill=True, color='0.20'))
-    plotAxisAlignedBox(-.5,-.5,1,1,ax)
-    plotAxisAlignedBox(-1.5,0,1,2,ax)
-    plotAxisAlignedBox(0,-1.5,2,.5,ax)
+    choice=0;
+    
+    choice = int(raw_input("Please type what case you are plotting for (1 or 2):"))
+
+    if(choice ==1):
+        plot1(ax)
+    else:
+        plot2(ax)
+
 
 # Plot a path in R3 with a unit square obstacle centered at the origin
 def plotR2(path):
