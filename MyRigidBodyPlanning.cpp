@@ -10,7 +10,7 @@
 #include <ompl/base/spaces/SO2StateSpace.h>
 
 //#include <ompl/geometric/planners/prm/PRM.h>
-#include "RRT.h"
+#include "RT.h"
 
 // The collision checker produced in project 2
 #include "CollisionChecking.h"
@@ -193,7 +193,7 @@ void planWithSimpleSetupSE2(const std::vector<Rectangle>& obstacles)
     ss.setStartAndGoalStates(start, goal);
 
     // Step 5) (optional) Specify a planning algorithm to use
-    ompl::base::PlannerPtr planner(new ompl::geometric::RRT(ss.getSpaceInformation()));
+    ompl::base::PlannerPtr planner(new ompl::geometric::RT(ss.getSpaceInformation()));
     ss.setPlanner(planner);
 
     // Step 6) Attempt to solve the problem within the given time (seconds)
@@ -256,8 +256,8 @@ void planWithSimpleSetupWeird(const std::vector<Rectangle>& obstacles)
     ss.setStartAndGoalStates(start, goal);
 
     // Step 5) (optional) Specify a planning algorithm to use
-    // ompl::base::PlannerPtr planner(new ompl::geometric::PRM(ss.getSpaceInformation()));
-    // ss.setPlanner(planner);
+    ompl::base::PlannerPtr planner(new ompl::geometric::RT(ss.getSpaceInformation()));
+    ss.setPlanner(planner);
 
     // Step 6) Attempt to solve the problem within the given time (seconds)
     ompl::base::PlannerStatus solved = ss.solve(1.0);
