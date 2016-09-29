@@ -210,33 +210,33 @@ void planWithSimpleSetupSE2(const std::vector<Rectangle>& obstacles)
 
 
 
-void addObstacles1(std::vector<Rectangle> obs){
+void addObstacles1(std::vector<Rectangle>* obs){
     Rectangle obstacle;
     obstacle.x = -0.5;
     obstacle.y = -0.5;
     obstacle.width = 1.0;
     obstacle.height = 1.0;
-    obs.push_back(obstacle);
+    obs->push_back(obstacle);
     Rectangle obstacle1;
     obstacle1.x = -1.5;
     obstacle1.y = 0.0;
     obstacle1.width = 1.0;
     obstacle1.height = 2.0;
-    obs.push_back(obstacle1);
+    obs->push_back(obstacle1);
     Rectangle obstacle2;
     obstacle2.x = 0.0;
     obstacle2.y = -1.5;
     obstacle2.width = 2.0;
     obstacle2.height = 0.5;
-    obs.push_back(obstacle2);
+    obs->push_back(obstacle2);
 }
-void addObstacles2(std::vector<Rectangle> obs){
+void addObstacles2(std::vector<Rectangle>* obs){
     Rectangle obstacle1;
     obstacle1.x = -1.5;
     obstacle1.y = 0.0;
     obstacle1.width = 1.0;
     obstacle1.height = 2.0;
-    obs.push_back(obstacle1);
+    obs->push_back(obstacle1);
 }
 int main(int, char **)
 {
@@ -246,22 +246,25 @@ int main(int, char **)
     {
         std::cout << "Set Obstacles: "<< std::endl;
         std::cout << " (1) Three Boxes" << std::endl;
-        std::cout << " (2) Many Boes" << std::endl;
+        std::cout << " (2) Many Boxes" << std::endl;
         
 
         std::cin >> choice;
     } while (choice < 1 || choice > 2);
 
+    
     switch(choice)
     {
     case 1:
-        addObstacles1(obstacles);
+        addObstacles1(&obstacles);
+        std::cout << "one"<<std::endl;
         break;
     case 2:
-        addObstacles2(obstacles);
+        addObstacles2(&obstacles);
+        std::cout << "two"<<std::endl;
         break;
     }
-    
+    std::cout <<obstacles.size() << std::endl; 
 
     choice;
     do
