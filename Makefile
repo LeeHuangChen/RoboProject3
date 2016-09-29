@@ -19,14 +19,14 @@ LD_FLAGS=-L${OMPL_DIR}/lib -lompl -Wl,-rpath ${OMPL_DIR}/lib
 # The c++ compiler to invoke
 CXX=c++
 
-all:	RRT
+all:	RT
 
 clean:
 	rm -f *.o
-	rm -f RRT
+	rm -f RT
 
-RRT: RRT.o MyRigidBodyPlanning.o CollisionChecking.o
-	$(CXX) $(CXXFLAGS) $(INCLUDE_FLAGS) -o RRT MyRigidBodyPlanning.o CollisionChecking.o RRT.o  $(LD_FLAGS)
+RT: RT.o MyRigidBodyPlanning.o CollisionChecking.o
+	$(CXX) $(CXXFLAGS) $(INCLUDE_FLAGS) -o RT MyRigidBodyPlanning.o CollisionChecking.o RT.o  $(LD_FLAGS)
 
 %.o: %.cpp
 	$(CXX) -c $(CXX_FLAGS) $(INCLUDE_FLAGS) $< -o $@

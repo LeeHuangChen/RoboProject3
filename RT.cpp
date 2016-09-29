@@ -34,12 +34,12 @@
 
 /* Author: Ioan Sucan */
 
-#include "RRT.h"
+#include "RT.h"
 #include "ompl/base/goals/GoalSampleableRegion.h"
 #include "ompl/tools/config/SelfConfig.h"
 #include <limits>
 
-ompl::geometric::RRT::RRT(const base::SpaceInformationPtr &si) : base::Planner(si, "RRT")
+ompl::geometric::RT::RT(const base::SpaceInformationPtr &si) : base::Planner(si, "RT")
 {
     specs_.approximateSolutions = true;
     specs_.directed = true;
@@ -48,16 +48,16 @@ ompl::geometric::RRT::RRT(const base::SpaceInformationPtr &si) : base::Planner(s
     maxDistance_ = 0.0;
     lastGoalMotion_ = nullptr;
 
-    Planner::declareParam<double>("range", this, &RRT::setRange, &RRT::getRange, "0.:1.:10000.");
-    Planner::declareParam<double>("goal_bias", this, &RRT::setGoalBias, &RRT::getGoalBias, "0.:.05:1.");
+    Planner::declareParam<double>("range", this, &RT::setRange, &RT::getRange, "0.:1.:10000.");
+    Planner::declareParam<double>("goal_bias", this, &RT::setGoalBias, &RT::getGoalBias, "0.:.05:1.");
 }
 
-ompl::geometric::RRT::~RRT()
+ompl::geometric::RT::~RT()
 {
     freeMemory();
 }
 
-void ompl::geometric::RRT::clear()
+void ompl::geometric::RT::clear()
 {
     Planner::clear();
     sampler_.reset();
@@ -67,7 +67,7 @@ void ompl::geometric::RRT::clear()
     lastGoalMotion_ = nullptr;
 }
 
-void ompl::geometric::RRT::setup()
+void ompl::geometric::RT::setup()
 {
     Planner::setup();
     tools::SelfConfig sc(si_, getName());
@@ -81,7 +81,7 @@ void ompl::geometric::RRT::setup()
                              });
 }
 
-void ompl::geometric::RRT::freeMemory()
+void ompl::geometric::RT::freeMemory()
 {
     if (nn_)
     {
@@ -96,7 +96,7 @@ void ompl::geometric::RRT::freeMemory()
     }
 }
 
-ompl::base::PlannerStatus ompl::geometric::RRT::solve(const base::PlannerTerminationCondition &ptc)
+ompl::base::PlannerStatus ompl::geometric::RT::solve(const base::PlannerTerminationCondition &ptc)
 {
     checkValidity();
     base::Goal *goal = pdef_->getGoal().get();
@@ -218,7 +218,7 @@ ompl::base::PlannerStatus ompl::geometric::RRT::solve(const base::PlannerTermina
     return base::PlannerStatus(solved, approximate);
 }
 
-void ompl::geometric::RRT::getPlannerData(base::PlannerData &data) const
+void ompl::geometric::RT::getPlannerData(base::PlannerData &data) const
 {
     Planner::getPlannerData(data);
 

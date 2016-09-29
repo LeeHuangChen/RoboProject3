@@ -34,8 +34,8 @@
 
 /* Author: Ioan Sucan */
 
-#ifndef OMPL_GEOMETRIC_PLANNERS_RRT_RRT_
-#define OMPL_GEOMETRIC_PLANNERS_RRT_RRT_
+#ifndef OMPL_GEOMETRIC_PLANNERS_RT_RT_
+#define OMPL_GEOMETRIC_PLANNERS_RT_RT_
 
 #include "ompl/geometric/planners/PlannerIncludes.h"
 #include "ompl/datastructures/NearestNeighbors.h"
@@ -62,13 +62,13 @@ namespace ompl
         */
 
         /** \brief Rapidly-exploring Random Trees */
-        class RRT : public base::Planner
+        class RT : public base::Planner
         {
         public:
             /** \brief Constructor */
-            RRT(const base::SpaceInformationPtr &si);
+            RT(const base::SpaceInformationPtr &si);
 
-            ~RRT() override;
+            ~RT() override;
 
             void getPlannerData(base::PlannerData &data) const override;
 
