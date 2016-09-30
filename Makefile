@@ -13,23 +13,27 @@ CXX_FLAGS=-std=c++11 -O2
 # Include directories
 INCLUDE_FLAGS=-I${OMPL_DIR}/include
 # Linker options
-LD_FLAGS=-L${OMPL_DIR}/lib -lompl -Wl,-rpath ${OMPL_DIR}/lib
-#LD_FLAGS=-L${OMPL_DIR}/lib -libompl -libompl_app -libompl_app_base -libboost_system -lompl -Wl,-rpath ${OMPL_DIR}/lib
+#LD_FLAGS=-L${OMPL_DIR}/lib -lompl -Wl,-rpath ${OMPL_DIR}/lib
+LD_FLAGS=-L${OMPL_DIR}/lib -lompl -lompl_app_base  -lompl_app -lboost_program_options
 
 # The c++ compiler to invoke
 CXX=c++
 
-all:	RT project3
+all:	RT project3 Benchmark
 
 clean:
 	rm -f *.o
 	rm -f RT
-
+	rm -f project3
+	rm -f Benchmark
 project3: RT.o project3.o CollisionChecking.o
 	$(CXX) $(CXXFLAGS) $(INCLUDE_FLAGS) -o project3 project3.o CollisionChecking.o RT.o  $(LD_FLAGS)
 
 RT: RT.o MyRigidBodyPlanning.o CollisionChecking.o
 	$(CXX) $(CXXFLAGS) $(INCLUDE_FLAGS) -o RT MyRigidBodyPlanning.o CollisionChecking.o RT.o  $(LD_FLAGS)
+
+Benchmark: RT.o Benchmark.o CollisionChecking.o
+	$(CXX) $(CXXFLAGS) $(INCLUDE_FLAGS) -o Benchmark Benchmark.o CollisionChecking.o RT.o  $(LD_FLAGS)
 
 %.o: %.cpp
 	$(CXX) -c $(CXX_FLAGS) $(INCLUDE_FLAGS) $< -o $@
