@@ -1,0 +1,1482 @@
+Dev1:    Beginning benchmark
+Dev1:    Preparing for run 0 of geometric_RT
+Dev1:    Executing pre-run event for run 0 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 4328 states
+Dev1:    SimpleSetup: Path simplification took 0.001690 seconds and changed from 7 to 2 states
+Dev1:    Executing post-run event for run 0 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 1 of geometric_RT
+Dev1:    Executing pre-run event for run 1 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5616 states
+Dev1:    SimpleSetup: Path simplification took 0.020728 seconds and changed from 14 to 81 states
+Dev1:    Executing post-run event for run 1 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 2 of geometric_RT
+Dev1:    Executing pre-run event for run 2 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5760 states
+Dev1:    SimpleSetup: Path simplification took 0.015064 seconds and changed from 11 to 57 states
+Dev1:    Executing post-run event for run 2 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 3 of geometric_RT
+Dev1:    Executing pre-run event for run 3 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 4962 states
+Dev1:    SimpleSetup: Path simplification took 0.041396 seconds and changed from 16 to 81 states
+Dev1:    Executing post-run event for run 3 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 4 of geometric_RT
+Dev1:    Executing pre-run event for run 4 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 4039 states
+Dev1:    SimpleSetup: Path simplification took 0.033302 seconds and changed from 10 to 85 states
+Dev1:    Executing post-run event for run 4 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 5 of geometric_RT
+Dev1:    Executing pre-run event for run 5 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 4525 states
+Dev1:    SimpleSetup: Path simplification took 0.003497 seconds and changed from 4 to 2 states
+Dev1:    Executing post-run event for run 5 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 6 of geometric_RT
+Dev1:    Executing pre-run event for run 6 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 3057 states
+Dev1:    SimpleSetup: Path simplification took 0.004338 seconds and changed from 5 to 2 states
+Dev1:    Executing post-run event for run 6 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 7 of geometric_RT
+Dev1:    Executing pre-run event for run 7 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 1813 states
+Dev1:    SimpleSetup: Path simplification took 0.067399 seconds and changed from 13 to 73 states
+Dev1:    Executing post-run event for run 7 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 8 of geometric_RT
+Dev1:    Executing pre-run event for run 8 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 1841 states
+Dev1:    SimpleSetup: Path simplification took 0.003877 seconds and changed from 7 to 2 states
+Dev1:    Executing post-run event for run 8 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 9 of geometric_RT
+Dev1:    Executing pre-run event for run 9 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 1546 states
+Dev1:    SimpleSetup: Path simplification took 0.003685 seconds and changed from 5 to 2 states
+Dev1:    Executing post-run event for run 9 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 10 of geometric_RT
+Dev1:    Executing pre-run event for run 10 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 3558 states
+Dev1:    SimpleSetup: Path simplification took 0.026506 seconds and changed from 18 to 41 states
+Dev1:    Executing post-run event for run 10 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 11 of geometric_RT
+Dev1:    Executing pre-run event for run 11 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5133 states
+Dev1:    SimpleSetup: Path simplification took 0.018372 seconds and changed from 13 to 73 states
+Dev1:    Executing post-run event for run 11 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 12 of geometric_RT
+Dev1:    Executing pre-run event for run 12 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5278 states
+Dev1:    SimpleSetup: Path simplification took 0.038155 seconds and changed from 22 to 113 states
+Dev1:    Executing post-run event for run 12 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 13 of geometric_RT
+Dev1:    Executing pre-run event for run 13 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 4786 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.043230 seconds and changed from 22 to 81 states
+Dev1:    Executing post-run event for run 13 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 14 of geometric_RT
+Dev1:    Executing pre-run event for run 14 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 4519 states
+Dev1:    SimpleSetup: Path simplification took 0.039140 seconds and changed from 17 to 73 states
+Dev1:    Executing post-run event for run 14 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 15 of geometric_RT
+Dev1:    Executing pre-run event for run 15 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5353 states
+Dev1:    SimpleSetup: Path simplification took 0.041227 seconds and changed from 18 to 57 states
+Dev1:    Executing post-run event for run 15 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 16 of geometric_RT
+Dev1:    Executing pre-run event for run 16 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 4977 states
+Dev1:    SimpleSetup: Path simplification took 0.016222 seconds and changed from 13 to 29 states
+Dev1:    Executing post-run event for run 16 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 17 of geometric_RT
+Dev1:    Executing pre-run event for run 17 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 4674 states
+Dev1:    SimpleSetup: Path simplification took 0.030644 seconds and changed from 19 to 49 states
+Dev1:    Executing post-run event for run 17 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 18 of geometric_RT
+Dev1:    Executing pre-run event for run 18 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5370 states
+Dev1:    SimpleSetup: Path simplification took 0.028894 seconds and changed from 17 to 57 states
+Dev1:    Executing post-run event for run 18 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 19 of geometric_RT
+Dev1:    Executing pre-run event for run 19 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5200 states
+Dev1:    SimpleSetup: Path simplification took 0.020451 seconds and changed from 11 to 57 states
+Dev1:    Executing post-run event for run 19 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 20 of geometric_RT
+Dev1:    Executing pre-run event for run 20 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 4361 states
+Dev1:    SimpleSetup: Path simplification took 0.046285 seconds and changed from 18 to 145 states
+Dev1:    Executing post-run event for run 20 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 21 of geometric_RT
+Dev1:    Executing pre-run event for run 21 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5604 states
+Dev1:    SimpleSetup: Path simplification took 0.026633 seconds and changed from 21 to 53 states
+Dev1:    Executing post-run event for run 21 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 22 of geometric_RT
+Dev1:    Executing pre-run event for run 22 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5015 states
+Dev1:    SimpleSetup: Path simplification took 0.024482 seconds and changed from 17 to 65 states
+Dev1:    Executing post-run event for run 22 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 23 of geometric_RT
+Dev1:    Executing pre-run event for run 23 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 3408 states
+Dev1:    SimpleSetup: Path simplification took 0.001132 seconds and changed from 6 to 2 states
+Dev1:    Executing post-run event for run 23 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 24 of geometric_RT
+Dev1:    Executing pre-run event for run 24 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5016 states
+Dev1:    SimpleSetup: Path simplification took 0.001875 seconds and changed from 4 to 2 states
+Dev1:    Executing post-run event for run 24 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 25 of geometric_RT
+Dev1:    Executing pre-run event for run 25 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 3573 states
+Dev1:    SimpleSetup: Path simplification took 0.002110 seconds and changed from 3 to 2 states
+Dev1:    Executing post-run event for run 25 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 26 of geometric_RT
+Dev1:    Executing pre-run event for run 26 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    RT: Created 3781 states
+Dev1:    SimpleSetup: Path simplification took 0.085013 seconds and changed from 21 to 113 states
+Dev1:    Executing post-run event for run 26 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 27 of geometric_RT
+Dev1:    Executing pre-run event for run 27 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5894 states
+Dev1:    SimpleSetup: Path simplification took 0.014281 seconds and changed from 14 to 29 states
+Dev1:    Executing post-run event for run 27 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 28 of geometric_RT
+Dev1:    Executing pre-run event for run 28 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 5388 states
+Dev1:    SimpleSetup: Path simplification took 0.045767 seconds and changed from 23 to 85 states
+Dev1:    Executing post-run event for run 28 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 29 of geometric_RT
+Dev1:    Executing pre-run event for run 29 of planner geometric_RT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RT: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RT
+Dev1:    RT: Created 4249 states
+Dev1:    SimpleSetup: Path simplification took 0.003268 seconds and changed from 6 to 2 states
+Dev1:    Executing post-run event for run 29 of planner geometric_RT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 0 of geometric_RRT
+Dev1:    Executing pre-run event for run 0 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 284 states
+Dev1:    SimpleSetup: Path simplification took 0.068107 seconds and changed from 25 to 113 states
+Dev1:    Executing post-run event for run 0 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 1 of geometric_RRT
+Dev1:    Executing pre-run event for run 1 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 315 states
+Dev1:    SimpleSetup: Path simplification took 0.114868 seconds and changed from 31 to 81 states
+Dev1:    Executing post-run event for run 1 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 2 of geometric_RRT
+Dev1:    Executing pre-run event for run 2 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 247 states
+Dev1:    SimpleSetup: Path simplification took 0.111732 seconds and changed from 29 to 85 states
+Dev1:    Executing post-run event for run 2 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 3 of geometric_RRT
+Dev1:    Executing pre-run event for run 3 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 166 states
+Dev1:    SimpleSetup: Path simplification took 0.068726 seconds and changed from 25 to 69 states
+Dev1:    Executing post-run event for run 3 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 4 of geometric_RRT
+Dev1:    Executing pre-run event for run 4 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 390 states
+Dev1:    SimpleSetup: Path simplification took 0.055409 seconds and changed from 32 to 61 states
+Dev1:    Executing post-run event for run 4 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 5 of geometric_RRT
+Dev1:    Executing pre-run event for run 5 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 424 states
+Dev1:    SimpleSetup: Path simplification took 0.091972 seconds and changed from 37 to 73 states
+Dev1:    Executing post-run event for run 5 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 6 of geometric_RRT
+Dev1:    Executing pre-run event for run 6 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 95 states
+Dev1:    SimpleSetup: Path simplification took 0.060571 seconds and changed from 26 to 65 states
+Dev1:    Executing post-run event for run 6 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 7 of geometric_RRT
+Dev1:    Executing pre-run event for run 7 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 283 states
+Dev1:    SimpleSetup: Path simplification took 0.071445 seconds and changed from 25 to 65 states
+Dev1:    Executing post-run event for run 7 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 8 of geometric_RRT
+Dev1:    Executing pre-run event for run 8 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 421 states
+Dev1:    SimpleSetup: Path simplification took 0.100299 seconds and changed from 31 to 93 states
+Dev1:    Executing post-run event for run 8 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 9 of geometric_RRT
+Dev1:    Executing pre-run event for run 9 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 166 states
+Dev1:    SimpleSetup: Path simplification took 0.079614 seconds and changed from 33 to 69 states
+Dev1:    Executing post-run event for run 9 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 10 of geometric_RRT
+Dev1:    Executing pre-run event for run 10 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 227 states
+Dev1:    SimpleSetup: Path simplification took 0.058051 seconds and changed from 25 to 81 states
+Dev1:    Executing post-run event for run 10 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 11 of geometric_RRT
+Dev1:    Executing pre-run event for run 11 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 203 states
+Dev1:    SimpleSetup: Path simplification took 0.049200 seconds and changed from 26 to 113 states
+Dev1:    Executing post-run event for run 11 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 12 of geometric_RRT
+Dev1:    Executing pre-run event for run 12 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 236 states
+Dev1:    SimpleSetup: Path simplification took 0.056269 seconds and changed from 27 to 85 states
+Dev1:    Executing post-run event for run 12 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 13 of geometric_RRT
+Dev1:    Executing pre-run event for run 13 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 166 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.064286 seconds and changed from 24 to 89 states
+Dev1:    Executing post-run event for run 13 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 14 of geometric_RRT
+Dev1:    Executing pre-run event for run 14 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 220 states
+Dev1:    SimpleSetup: Path simplification took 0.138128 seconds and changed from 25 to 85 states
+Dev1:    Executing post-run event for run 14 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 15 of geometric_RRT
+Dev1:    Executing pre-run event for run 15 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 157 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.046830 seconds and changed from 27 to 89 states
+Dev1:    Executing post-run event for run 15 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 16 of geometric_RRT
+Dev1:    Executing pre-run event for run 16 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 238 states
+Dev1:    SimpleSetup: Path simplification took 0.059464 seconds and changed from 30 to 85 states
+Dev1:    Executing post-run event for run 16 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 17 of geometric_RRT
+Dev1:    Executing pre-run event for run 17 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 189 states
+Dev1:    SimpleSetup: Path simplification took 0.050175 seconds and changed from 27 to 113 states
+Dev1:    Executing post-run event for run 17 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 18 of geometric_RRT
+Dev1:    Executing pre-run event for run 18 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 101 states
+Dev1:    SimpleSetup: Path simplification took 0.061354 seconds and changed from 21 to 81 states
+Dev1:    Executing post-run event for run 18 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 19 of geometric_RRT
+Dev1:    Executing pre-run event for run 19 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 288 states
+Dev1:    SimpleSetup: Path simplification took 0.071035 seconds and changed from 37 to 145 states
+Dev1:    Executing post-run event for run 19 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 20 of geometric_RRT
+Dev1:    Executing pre-run event for run 20 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 176 states
+Dev1:    SimpleSetup: Path simplification took 0.027461 seconds and changed from 24 to 57 states
+Dev1:    Executing post-run event for run 20 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 21 of geometric_RRT
+Dev1:    Executing pre-run event for run 21 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 247 states
+Dev1:    SimpleSetup: Path simplification took 0.046501 seconds and changed from 26 to 105 states
+Dev1:    Executing post-run event for run 21 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 22 of geometric_RRT
+Dev1:    Executing pre-run event for run 22 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 194 states
+Dev1:    SimpleSetup: Path simplification took 0.055413 seconds and changed from 25 to 73 states
+Dev1:    Executing post-run event for run 22 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 23 of geometric_RRT
+Dev1:    Executing pre-run event for run 23 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 324 states
+Dev1:    SimpleSetup: Path simplification took 0.062553 seconds and changed from 36 to 97 states
+Dev1:    Executing post-run event for run 23 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 24 of geometric_RRT
+Dev1:    Executing pre-run event for run 24 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 197 states
+Dev1:    SimpleSetup: Path simplification took 0.044564 seconds and changed from 29 to 129 states
+Dev1:    Executing post-run event for run 24 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 25 of geometric_RRT
+Dev1:    Executing pre-run event for run 25 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 193 states
+Dev1:    SimpleSetup: Path simplification took 0.059857 seconds and changed from 26 to 81 states
+Dev1:    Executing post-run event for run 25 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 26 of geometric_RRT
+Dev1:    Executing pre-run event for run 26 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 413 states
+Dev1:    SimpleSetup: Path simplification took 0.069529 seconds and changed from 40 to 93 states
+Dev1:    Executing post-run event for run 26 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 27 of geometric_RRT
+Dev1:    Executing pre-run event for run 27 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 255 states
+Dev1:    SimpleSetup: Path simplification took 0.095813 seconds and changed from 32 to 97 states
+Dev1:    Executing post-run event for run 27 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 28 of geometric_RRT
+Dev1:    Executing pre-run event for run 28 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 176 states
+Dev1:    SimpleSetup: Path simplification took 0.070507 seconds and changed from 25 to 105 states
+Dev1:    Executing post-run event for run 28 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 29 of geometric_RRT
+Dev1:    Executing pre-run event for run 29 of planner geometric_RRT ...
+Dev1:    Completed execution of pre-run event
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 213 states
+Dev1:    SimpleSetup: Path simplification took 0.065656 seconds and changed from 30 to 93 states
+Dev1:    Executing post-run event for run 29 of planner geometric_RRT ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 0 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 0 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1171 states in 566 cells (21 internal + 545 external)
+Dev1:    SimpleSetup: Path simplification took 0.087089 seconds and changed from 92 to 89 states
+Dev1:    Executing post-run event for run 0 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 1 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 1 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1289 states in 516 cells (27 internal + 489 external)
+Dev1:    SimpleSetup: Path simplification took 0.102589 seconds and changed from 102 to 101 states
+Dev1:    Executing post-run event for run 1 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 2 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 2 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1185 states in 481 cells (19 internal + 462 external)
+Dev1:    SimpleSetup: Path simplification took 0.094215 seconds and changed from 87 to 97 states
+Dev1:    Executing post-run event for run 2 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 3 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 3 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 941 states in 520 cells (10 internal + 510 external)
+Dev1:    SimpleSetup: Path simplification took 0.094699 seconds and changed from 102 to 69 states
+Dev1:    Executing post-run event for run 3 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 4 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 4 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1136 states in 527 cells (16 internal + 511 external)
+Dev1:    SimpleSetup: Path simplification took 0.097096 seconds and changed from 107 to 145 states
+Dev1:    Executing post-run event for run 4 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 5 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 5 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 975 states in 477 cells (12 internal + 465 external)
+Dev1:    SimpleSetup: Path simplification took 0.126044 seconds and changed from 75 to 93 states
+Dev1:    Executing post-run event for run 5 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 6 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 6 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 888 states in 498 cells (11 internal + 487 external)
+Dev1:    SimpleSetup: Path simplification took 0.085665 seconds and changed from 102 to 97 states
+Dev1:    Executing post-run event for run 6 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 7 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 7 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 649 states in 360 cells (4 internal + 356 external)
+Dev1:    SimpleSetup: Path simplification took 0.132270 seconds and changed from 97 to 101 states
+Dev1:    Executing post-run event for run 7 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 8 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 8 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 897 states in 380 cells (12 internal + 368 external)
+Dev1:    SimpleSetup: Path simplification took 0.081312 seconds and changed from 91 to 73 states
+Dev1:    Executing post-run event for run 8 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 9 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 9 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 904 states in 495 cells (18 internal + 477 external)
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.083685 seconds and changed from 92 to 101 states
+Dev1:    Executing post-run event for run 9 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 10 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 10 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 947 states in 527 cells (13 internal + 514 external)
+Dev1:    SimpleSetup: Path simplification took 0.083462 seconds and changed from 89 to 93 states
+Dev1:    Executing post-run event for run 10 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 11 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 11 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1688 states in 677 cells (58 internal + 619 external)
+Dev1:    SimpleSetup: Path simplification took 0.075599 seconds and changed from 81 to 93 states
+Dev1:    Executing post-run event for run 11 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 12 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 12 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 948 states in 472 cells (14 internal + 458 external)
+Dev1:    SimpleSetup: Path simplification took 0.079408 seconds and changed from 85 to 169 states
+Dev1:    Executing post-run event for run 12 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 13 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 13 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1089 states in 506 cells (14 internal + 492 external)
+Dev1:    SimpleSetup: Path simplification took 0.072837 seconds and changed from 79 to 105 states
+Dev1:    Executing post-run event for run 13 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 14 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 14 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 795 states in 380 cells (12 internal + 368 external)
+Dev1:    SimpleSetup: Path simplification took 0.068651 seconds and changed from 76 to 73 states
+Dev1:    Executing post-run event for run 14 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 15 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 15 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1341 states in 589 cells (31 internal + 558 external)
+Dev1:    SimpleSetup: Path simplification took 0.102282 seconds and changed from 118 to 97 states
+Dev1:    Executing post-run event for run 15 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 16 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 16 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1131 states in 540 cells (14 internal + 526 external)
+Dev1:    SimpleSetup: Path simplification took 0.057353 seconds and changed from 61 to 81 states
+Dev1:    Executing post-run event for run 16 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 17 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 17 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 960 states in 460 cells (19 internal + 441 external)
+Dev1:    SimpleSetup: Path simplification took 0.074599 seconds and changed from 79 to 85 states
+Dev1:    Executing post-run event for run 17 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 18 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 18 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1021 states in 489 cells (14 internal + 475 external)
+Dev1:    SimpleSetup: Path simplification took 0.080713 seconds and changed from 77 to 85 states
+Dev1:    Executing post-run event for run 18 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 19 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 19 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 766 states in 450 cells (4 internal + 446 external)
+Dev1:    SimpleSetup: Path simplification took 0.087915 seconds and changed from 79 to 81 states
+Dev1:    Executing post-run event for run 19 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 20 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 20 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 921 states in 496 cells (7 internal + 489 external)
+Dev1:    SimpleSetup: Path simplification took 0.060994 seconds and changed from 111 to 61 states
+Dev1:    Executing post-run event for run 20 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 21 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 21 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 741 states in 380 cells (6 internal + 374 external)
+Dev1:    SimpleSetup: Path simplification took 0.064764 seconds and changed from 85 to 41 states
+Dev1:    Executing post-run event for run 21 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 22 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 22 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 802 states in 455 cells (6 internal + 449 external)
+Dev1:    SimpleSetup: Path simplification took 0.080246 seconds and changed from 87 to 85 states
+Dev1:    Executing post-run event for run 22 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 23 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 23 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 913 states in 457 cells (7 internal + 450 external)
+Dev1:    SimpleSetup: Path simplification took 0.127066 seconds and changed from 63 to 105 states
+Dev1:    Executing post-run event for run 23 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 24 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 24 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1325 states in 556 cells (19 internal + 537 external)
+Dev1:    SimpleSetup: Path simplification took 0.075958 seconds and changed from 86 to 77 states
+Dev1:    Executing post-run event for run 24 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 25 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 25 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1025 states in 594 cells (17 internal + 577 external)
+Dev1:    SimpleSetup: Path simplification took 0.073274 seconds and changed from 89 to 121 states
+Dev1:    Executing post-run event for run 25 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 26 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 26 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1597 states in 715 cells (52 internal + 663 external)
+Dev1:    SimpleSetup: Path simplification took 0.083887 seconds and changed from 96 to 93 states
+Dev1:    Executing post-run event for run 26 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 27 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 27 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 909 states in 461 cells (9 internal + 452 external)
+Dev1:    SimpleSetup: Path simplification took 0.077113 seconds and changed from 86 to 113 states
+Dev1:    Executing post-run event for run 27 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 28 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 28 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 1190 states in 522 cells (20 internal + 502 external)
+Dev1:    SimpleSetup: Path simplification took 0.079976 seconds and changed from 84 to 177 states
+Dev1:    Executing post-run event for run 28 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 29 of geometric_KPIECE1
+Dev1:    Executing pre-run event for run 29 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of pre-run event
+Dev1:    KPIECE1: Starting planning with 1 states already in datastructure
+Dev1:    KPIECE1: Created 890 states in 500 cells (11 internal + 489 external)
+Dev1:    SimpleSetup: Path simplification took 0.094929 seconds and changed from 72 to 121 states
+Dev1:    Executing post-run event for run 29 of planner geometric_KPIECE1 ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 0 of geometric_SBL
+Dev1:    Executing pre-run event for run 0 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 9380 (2193 start + 7187 goal) states in 1555 cells (694 start + 861 goal)
+Dev1:    SimpleSetup: Path simplification took 0.065840 seconds and changed from 47 to 77 states
+Dev1:    Executing post-run event for run 0 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 1 of geometric_SBL
+Dev1:    Executing pre-run event for run 1 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 7070 (1050 start + 6020 goal) states in 1457 cells (499 start + 958 goal)
+Dev1:    SimpleSetup: Path simplification took 0.068008 seconds and changed from 46 to 89 states
+Dev1:    Executing post-run event for run 1 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 2 of geometric_SBL
+Dev1:    Executing pre-run event for run 2 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 6965 (1860 start + 5105 goal) states in 1428 cells (779 start + 649 goal)
+Dev1:    SimpleSetup: Path simplification took 0.070556 seconds and changed from 42 to 89 states
+Dev1:    Executing post-run event for run 2 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 3 of geometric_SBL
+Dev1:    Executing pre-run event for run 3 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 9001 (2826 start + 6175 goal) states in 1692 cells (911 start + 781 goal)
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.143985 seconds and changed from 49 to 85 states
+Dev1:    Executing post-run event for run 3 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 4 of geometric_SBL
+Dev1:    Executing pre-run event for run 4 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 8493 (1845 start + 6648 goal) states in 1600 cells (636 start + 964 goal)
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.073318 seconds and changed from 39 to 137 states
+Dev1:    Executing post-run event for run 4 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 5 of geometric_SBL
+Dev1:    Executing pre-run event for run 5 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 7628 (2304 start + 5324 goal) states in 1590 cells (902 start + 688 goal)
+Dev1:    SimpleSetup: Path simplification took 0.054212 seconds and changed from 47 to 89 states
+Dev1:    Executing post-run event for run 5 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 6 of geometric_SBL
+Dev1:    Executing pre-run event for run 6 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 11223 (2826 start + 8397 goal) states in 1550 cells (675 start + 875 goal)
+Dev1:    SimpleSetup: Path simplification took 0.076464 seconds and changed from 48 to 89 states
+Dev1:    Executing post-run event for run 6 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 7 of geometric_SBL
+Dev1:    Executing pre-run event for run 7 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 23087 (7536 start + 15551 goal) states in 2226 cells (1552 start + 674 goal)
+Dev1:    SimpleSetup: Path simplification took 0.059009 seconds and changed from 57 to 85 states
+Dev1:    Executing post-run event for run 7 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 8 of geometric_SBL
+Dev1:    Executing pre-run event for run 8 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 12208 (3935 start + 8273 goal) states in 1800 cells (1110 start + 690 goal)
+Dev1:    SimpleSetup: Path simplification took 0.050343 seconds and changed from 41 to 81 states
+Dev1:    Executing post-run event for run 8 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 9 of geometric_SBL
+Dev1:    Executing pre-run event for run 9 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 7978 (1579 start + 6399 goal) states in 1541 cells (521 start + 1020 goal)
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.061291 seconds and changed from 39 to 81 states
+Dev1:    Executing post-run event for run 9 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 10 of geometric_SBL
+Dev1:    Executing pre-run event for run 10 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 5719 (1235 start + 4484 goal) states in 1307 cells (564 start + 743 goal)
+Dev1:    SimpleSetup: Path simplification took 0.068106 seconds and changed from 43 to 93 states
+Dev1:    Executing post-run event for run 10 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 11 of geometric_SBL
+Dev1:    Executing pre-run event for run 11 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 9787 (2544 start + 7243 goal) states in 1708 cells (822 start + 886 goal)
+Dev1:    SimpleSetup: Path simplification took 0.066034 seconds and changed from 55 to 97 states
+Dev1:    Executing post-run event for run 11 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 12 of geometric_SBL
+Dev1:    Executing pre-run event for run 12 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 7293 (1194 start + 6099 goal) states in 1571 cells (417 start + 1154 goal)
+Dev1:    SimpleSetup: Path simplification took 0.056866 seconds and changed from 44 to 97 states
+Dev1:    Executing post-run event for run 12 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 13 of geometric_SBL
+Dev1:    Executing pre-run event for run 13 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 9627 (1404 start + 8223 goal) states in 1720 cells (452 start + 1268 goal)
+Dev1:    SimpleSetup: Path simplification took 0.067386 seconds and changed from 52 to 97 states
+Dev1:    Executing post-run event for run 13 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 14 of geometric_SBL
+Dev1:    Executing pre-run event for run 14 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 13478 (5312 start + 8166 goal) states in 2006 cells (1395 start + 611 goal)
+Dev1:    SimpleSetup: Path simplification took 0.083428 seconds and changed from 55 to 97 states
+Dev1:    Executing post-run event for run 14 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 15 of geometric_SBL
+Dev1:    Executing pre-run event for run 15 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 9786 (2760 start + 7026 goal) states in 1705 cells (1074 start + 631 goal)
+Dev1:    SimpleSetup: Path simplification took 0.070255 seconds and changed from 43 to 97 states
+Dev1:    Executing post-run event for run 15 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 16 of geometric_SBL
+Dev1:    Executing pre-run event for run 16 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 10980 (1699 start + 9281 goal) states in 1621 cells (435 start + 1186 goal)
+Dev1:    SimpleSetup: Path simplification took 0.053713 seconds and changed from 45 to 61 states
+Dev1:    Executing post-run event for run 16 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 17 of geometric_SBL
+Dev1:    Executing pre-run event for run 17 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 11025 (3283 start + 7742 goal) states in 1688 cells (995 start + 693 goal)
+Dev1:    SimpleSetup: Path simplification took 0.059904 seconds and changed from 43 to 93 states
+Dev1:    Executing post-run event for run 17 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 18 of geometric_SBL
+Dev1:    Executing pre-run event for run 18 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 6050 (1782 start + 4268 goal) states in 1493 cells (694 start + 799 goal)
+Dev1:    SimpleSetup: Path simplification took 0.064324 seconds and changed from 44 to 85 states
+Dev1:    Executing post-run event for run 18 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 19 of geometric_SBL
+Dev1:    Executing pre-run event for run 19 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 6634 (1512 start + 5122 goal) states in 1414 cells (603 start + 811 goal)
+Dev1:    SimpleSetup: Path simplification took 0.050279 seconds and changed from 50 to 61 states
+Dev1:    Executing post-run event for run 19 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 20 of geometric_SBL
+Dev1:    Executing pre-run event for run 20 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 13115 (3673 start + 9442 goal) states in 1781 cells (942 start + 839 goal)
+Dev1:    SimpleSetup: Path simplification took 0.078265 seconds and changed from 53 to 105 states
+Dev1:    Executing post-run event for run 20 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 21 of geometric_SBL
+Dev1:    Executing pre-run event for run 21 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 9352 (2187 start + 7165 goal) states in 1554 cells (734 start + 820 goal)
+Dev1:    SimpleSetup: Path simplification took 0.063519 seconds and changed from 48 to 93 states
+Dev1:    Executing post-run event for run 21 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 22 of geometric_SBL
+Dev1:    Executing pre-run event for run 22 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 10850 (3131 start + 7719 goal) states in 1731 cells (871 start + 860 goal)
+Dev1:    SimpleSetup: Path simplification took 0.082489 seconds and changed from 51 to 117 states
+Dev1:    Executing post-run event for run 22 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 23 of geometric_SBL
+Dev1:    Executing pre-run event for run 23 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 7879 (728 start + 7151 goal) states in 1547 cells (243 start + 1304 goal)
+Dev1:    SimpleSetup: Path simplification took 0.074598 seconds and changed from 49 to 101 states
+Dev1:    Executing post-run event for run 23 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 24 of geometric_SBL
+Dev1:    Executing pre-run event for run 24 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 6953 (1848 start + 5105 goal) states in 1505 cells (778 start + 727 goal)
+Dev1:    SimpleSetup: Path simplification took 0.077049 seconds and changed from 52 to 101 states
+Dev1:    Executing post-run event for run 24 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 25 of geometric_SBL
+Dev1:    Executing pre-run event for run 25 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 8430 (773 start + 7657 goal) states in 1520 cells (222 start + 1298 goal)
+Dev1:    SimpleSetup: Path simplification took 0.076895 seconds and changed from 40 to 93 states
+Dev1:    Executing post-run event for run 25 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 26 of geometric_SBL
+Dev1:    Executing pre-run event for run 26 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 14397 (6067 start + 8330 goal) states in 2191 cells (1569 start + 622 goal)
+Dev1:    SimpleSetup: Path simplification took 0.069400 seconds and changed from 45 to 101 states
+Dev1:    Executing post-run event for run 26 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 27 of geometric_SBL
+Dev1:    Executing pre-run event for run 27 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 9089 (3607 start + 5482 goal) states in 1818 cells (1167 start + 651 goal)
+Dev1:    SimpleSetup: Path simplification took 0.069897 seconds and changed from 46 to 177 states
+Dev1:    Executing post-run event for run 27 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 28 of geometric_SBL
+Dev1:    Executing pre-run event for run 28 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 13265 (4561 start + 8704 goal) states in 1869 cells (1217 start + 652 goal)
+Dev1:    SimpleSetup: Path simplification took 0.057182 seconds and changed from 46 to 61 states
+Dev1:    Executing post-run event for run 28 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 29 of geometric_SBL
+Dev1:    Executing pre-run event for run 29 of planner geometric_SBL ...
+Dev1:    Completed execution of pre-run event
+Dev1:    SBL: Starting planning with 1 states already in datastructure
+Dev1:    SBL: Created 13404 (4078 start + 9326 goal) states in 1851 cells (1161 start + 690 goal)
+Dev1:    SimpleSetup: Path simplification took 0.072324 seconds and changed from 52 to 97 states
+Dev1:    Executing post-run event for run 29 of planner geometric_SBL ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 0 of geometric_EST
+Dev1:    Executing pre-run event for run 0 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 354 states
+Dev1:    SimpleSetup: Path simplification took 0.085417 seconds and changed from 44 to 101 states
+Dev1:    Executing post-run event for run 0 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 1 of geometric_EST
+Dev1:    Executing pre-run event for run 1 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 402 states
+Dev1:    SimpleSetup: Path simplification took 0.070609 seconds and changed from 35 to 169 states
+Dev1:    Executing post-run event for run 1 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 2 of geometric_EST
+Dev1:    Executing pre-run event for run 2 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 368 states
+Dev1:    SimpleSetup: Path simplification took 0.078782 seconds and changed from 38 to 59 states
+Dev1:    Executing post-run event for run 2 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 3 of geometric_EST
+Dev1:    Executing pre-run event for run 3 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 300 states
+Dev1:    SimpleSetup: Path simplification took 0.073040 seconds and changed from 38 to 81 states
+Dev1:    Executing post-run event for run 3 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 4 of geometric_EST
+Dev1:    Executing pre-run event for run 4 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 531 states
+Dev1:    SimpleSetup: Path simplification took 0.069898 seconds and changed from 33 to 161 states
+Dev1:    Executing post-run event for run 4 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 5 of geometric_EST
+Dev1:    Executing pre-run event for run 5 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 375 states
+Dev1:    SimpleSetup: Path simplification took 0.081593 seconds and changed from 41 to 109 states
+Dev1:    Executing post-run event for run 5 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 6 of geometric_EST
+Dev1:    Executing pre-run event for run 6 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 350 states
+Dev1:    SimpleSetup: Path simplification took 0.069872 seconds and changed from 42 to 101 states
+Dev1:    Executing post-run event for run 6 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 7 of geometric_EST
+Dev1:    Executing pre-run event for run 7 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 362 states
+Dev1:    SimpleSetup: Path simplification took 0.073891 seconds and changed from 35 to 117 states
+Dev1:    Executing post-run event for run 7 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 8 of geometric_EST
+Dev1:    Executing pre-run event for run 8 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 308 states
+Dev1:    SimpleSetup: Path simplification took 0.068520 seconds and changed from 38 to 85 states
+Dev1:    Executing post-run event for run 8 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 9 of geometric_EST
+Dev1:    Executing pre-run event for run 9 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 366 states
+Dev1:    SimpleSetup: Path simplification took 0.067321 seconds and changed from 44 to 153 states
+Dev1:    Executing post-run event for run 9 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 10 of geometric_EST
+Dev1:    Executing pre-run event for run 10 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 461 states
+Dev1:    SimpleSetup: Path simplification took 0.068157 seconds and changed from 41 to 97 states
+Dev1:    Executing post-run event for run 10 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 11 of geometric_EST
+Dev1:    Executing pre-run event for run 11 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 308 states
+Dev1:    SimpleSetup: Path simplification took 0.067264 seconds and changed from 41 to 65 states
+Dev1:    Executing post-run event for run 11 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 12 of geometric_EST
+Dev1:    Executing pre-run event for run 12 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 409 states
+Dev1:    SimpleSetup: Path simplification took 0.073517 seconds and changed from 41 to 101 states
+Dev1:    Executing post-run event for run 12 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 13 of geometric_EST
+Dev1:    Executing pre-run event for run 13 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 337 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.077751 seconds and changed from 44 to 105 states
+Dev1:    Executing post-run event for run 13 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 14 of geometric_EST
+Dev1:    Executing pre-run event for run 14 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 479 states
+Dev1:    SimpleSetup: Path simplification took 0.065941 seconds and changed from 36 to 109 states
+Dev1:    Executing post-run event for run 14 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 15 of geometric_EST
+Dev1:    Executing pre-run event for run 15 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 425 states
+Dev1:    SimpleSetup: Path simplification took 0.063941 seconds and changed from 39 to 73 states
+Dev1:    Executing post-run event for run 15 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 16 of geometric_EST
+Dev1:    Executing pre-run event for run 16 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 452 states
+Dev1:    SimpleSetup: Path simplification took 0.085971 seconds and changed from 43 to 97 states
+Dev1:    Executing post-run event for run 16 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 17 of geometric_EST
+Dev1:    Executing pre-run event for run 17 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 327 states
+Dev1:    SimpleSetup: Path simplification took 0.052463 seconds and changed from 38 to 65 states
+Dev1:    Executing post-run event for run 17 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 18 of geometric_EST
+Dev1:    Executing pre-run event for run 18 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 422 states
+Dev1:    SimpleSetup: Path simplification took 0.053882 seconds and changed from 48 to 73 states
+Dev1:    Executing post-run event for run 18 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 19 of geometric_EST
+Dev1:    Executing pre-run event for run 19 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 335 states
+Dev1:    SimpleSetup: Path simplification took 0.065502 seconds and changed from 42 to 101 states
+Dev1:    Executing post-run event for run 19 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 20 of geometric_EST
+Dev1:    Executing pre-run event for run 20 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 411 states
+Dev1:    SimpleSetup: Path simplification took 0.060164 seconds and changed from 36 to 101 states
+Dev1:    Executing post-run event for run 20 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 21 of geometric_EST
+Dev1:    Executing pre-run event for run 21 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 390 states
+Dev1:    SimpleSetup: Path simplification took 0.093633 seconds and changed from 36 to 169 states
+Dev1:    Executing post-run event for run 21 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 22 of geometric_EST
+Dev1:    Executing pre-run event for run 22 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 323 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.048923 seconds and changed from 31 to 45 states
+Dev1:    Executing post-run event for run 22 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 23 of geometric_EST
+Dev1:    Executing pre-run event for run 23 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 357 states
+Dev1:    SimpleSetup: Path simplification took 0.100019 seconds and changed from 40 to 81 states
+Dev1:    Executing post-run event for run 23 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 24 of geometric_EST
+Dev1:    Executing pre-run event for run 24 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 363 states
+Dev1:    SimpleSetup: Path simplification took 0.065194 seconds and changed from 36 to 89 states
+Dev1:    Executing post-run event for run 24 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 25 of geometric_EST
+Dev1:    Executing pre-run event for run 25 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 347 states
+Dev1:    SimpleSetup: Path simplification took 0.057663 seconds and changed from 37 to 97 states
+Dev1:    Executing post-run event for run 25 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 26 of geometric_EST
+Dev1:    Executing pre-run event for run 26 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 382 states
+Dev1:    SimpleSetup: Path simplification took 0.096378 seconds and changed from 50 to 109 states
+Dev1:    Executing post-run event for run 26 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 27 of geometric_EST
+Dev1:    Executing pre-run event for run 27 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 371 states
+Dev1:    SimpleSetup: Path simplification took 0.060090 seconds and changed from 40 to 81 states
+Dev1:    Executing post-run event for run 27 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 28 of geometric_EST
+Dev1:    Executing pre-run event for run 28 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 344 states
+Dev1:    SimpleSetup: Path simplification took 0.047722 seconds and changed from 37 to 43 states
+Dev1:    Executing post-run event for run 28 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 29 of geometric_EST
+Dev1:    Executing pre-run event for run 29 of planner geometric_EST ...
+Dev1:    Completed execution of pre-run event
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 350 states
+Dev1:    SimpleSetup: Path simplification took 0.092704 seconds and changed from 35 to 77 states
+Dev1:    Executing post-run event for run 29 of planner geometric_EST ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 0 of geometric_PRM
+Dev1:    Executing pre-run event for run 0 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 980 states
+Dev1:    SimpleSetup: Path simplification took 0.077963 seconds and changed from 26 to 145 states
+Dev1:    Executing post-run event for run 0 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 1 of geometric_PRM
+Dev1:    Executing pre-run event for run 1 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1784 states
+Dev1:    SimpleSetup: Path simplification took 0.083067 seconds and changed from 34 to 105 states
+Dev1:    Executing post-run event for run 1 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 2 of geometric_PRM
+Dev1:    Executing pre-run event for run 2 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1133 states
+Dev1:    SimpleSetup: Path simplification took 0.075730 seconds and changed from 27 to 169 states
+Dev1:    Executing post-run event for run 2 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 3 of geometric_PRM
+Dev1:    Executing pre-run event for run 3 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1180 states
+Dev1:    SimpleSetup: Path simplification took 0.123798 seconds and changed from 33 to 97 states
+Dev1:    Executing post-run event for run 3 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 4 of geometric_PRM
+Dev1:    Executing pre-run event for run 4 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1101 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.058850 seconds and changed from 29 to 63 states
+Dev1:    Executing post-run event for run 4 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 5 of geometric_PRM
+Dev1:    Executing pre-run event for run 5 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2356 states
+Dev1:    SimpleSetup: Path simplification took 0.084500 seconds and changed from 31 to 105 states
+Dev1:    Executing post-run event for run 5 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 6 of geometric_PRM
+Dev1:    Executing pre-run event for run 6 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 3953 states
+Dev1:    SimpleSetup: Path simplification took 0.093822 seconds and changed from 40 to 93 states
+Dev1:    Executing post-run event for run 6 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 7 of geometric_PRM
+Dev1:    Executing pre-run event for run 7 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 768 states
+Dev1:    SimpleSetup: Path simplification took 0.077376 seconds and changed from 28 to 109 states
+Dev1:    Executing post-run event for run 7 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 8 of geometric_PRM
+Dev1:    Executing pre-run event for run 8 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 3155 states
+Dev1:    SimpleSetup: Path simplification took 0.070423 seconds and changed from 31 to 93 states
+Dev1:    Executing post-run event for run 8 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 9 of geometric_PRM
+Dev1:    Executing pre-run event for run 9 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 881 states
+Dev1:    SimpleSetup: Path simplification took 0.093841 seconds and changed from 38 to 117 states
+Dev1:    Executing post-run event for run 9 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 10 of geometric_PRM
+Dev1:    Executing pre-run event for run 10 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1486 states
+Dev1:    SimpleSetup: Path simplification took 0.052083 seconds and changed from 25 to 57 states
+Dev1:    Executing post-run event for run 10 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 11 of geometric_PRM
+Dev1:    Executing pre-run event for run 11 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 877 states
+Dev1:    SimpleSetup: Path simplification took 0.087286 seconds and changed from 33 to 121 states
+Dev1:    Executing post-run event for run 11 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 12 of geometric_PRM
+Dev1:    Executing pre-run event for run 12 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 386 states
+Dev1:    SimpleSetup: Path simplification took 0.063564 seconds and changed from 24 to 105 states
+Dev1:    Executing post-run event for run 12 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 13 of geometric_PRM
+Dev1:    Executing pre-run event for run 13 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1259 states
+Dev1:    SimpleSetup: Path simplification took 0.074042 seconds and changed from 29 to 101 states
+Dev1:    Executing post-run event for run 13 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 14 of geometric_PRM
+Dev1:    Executing pre-run event for run 14 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 814 states
+Dev1:    SimpleSetup: Path simplification took 0.043364 seconds and changed from 24 to 69 states
+Dev1:    Executing post-run event for run 14 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 15 of geometric_PRM
+Dev1:    Executing pre-run event for run 15 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 497 states
+Dev1:    SimpleSetup: Path simplification took 0.059689 seconds and changed from 27 to 59 states
+Dev1:    Executing post-run event for run 15 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 16 of geometric_PRM
+Dev1:    Executing pre-run event for run 16 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 722 states
+Dev1:    SimpleSetup: Path simplification took 0.039705 seconds and changed from 26 to 39 states
+Dev1:    Executing post-run event for run 16 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 17 of geometric_PRM
+Dev1:    Executing pre-run event for run 17 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 429 states
+Dev1:    SimpleSetup: Path simplification took 0.055871 seconds and changed from 24 to 89 states
+Dev1:    Executing post-run event for run 17 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 18 of geometric_PRM
+Dev1:    Executing pre-run event for run 18 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 3891 states
+Dev1:    SimpleSetup: Path simplification took 0.107086 seconds and changed from 44 to 101 states
+Dev1:    Executing post-run event for run 18 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 19 of geometric_PRM
+Dev1:    Executing pre-run event for run 19 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 989 states
+Dev1:    SimpleSetup: Path simplification took 0.079429 seconds and changed from 28 to 93 states
+Dev1:    Executing post-run event for run 19 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 20 of geometric_PRM
+Dev1:    Executing pre-run event for run 20 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 4004 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.114273 seconds and changed from 40 to 193 states
+Dev1:    Executing post-run event for run 20 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 21 of geometric_PRM
+Dev1:    Executing pre-run event for run 21 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 778 states
+Dev1:    SimpleSetup: Path simplification took 0.055083 seconds and changed from 28 to 53 states
+Dev1:    Executing post-run event for run 21 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 22 of geometric_PRM
+Dev1:    Executing pre-run event for run 22 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 653 states
+Dev1:    SimpleSetup: Path simplification took 0.070717 seconds and changed from 31 to 81 states
+Dev1:    Executing post-run event for run 22 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 23 of geometric_PRM
+Dev1:    Executing pre-run event for run 23 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1247 states
+Dev1:    SimpleSetup: Path simplification took 0.065793 seconds and changed from 33 to 37 states
+Dev1:    Executing post-run event for run 23 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 24 of geometric_PRM
+Dev1:    Executing pre-run event for run 24 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 275 states
+Dev1:    SimpleSetup: Path simplification took 0.048854 seconds and changed from 21 to 89 states
+Dev1:    Executing post-run event for run 24 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 25 of geometric_PRM
+Dev1:    Executing pre-run event for run 25 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2294 states
+Dev1:    SimpleSetup: Path simplification took 0.086817 seconds and changed from 41 to 101 states
+Dev1:    Executing post-run event for run 25 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 26 of geometric_PRM
+Dev1:    Executing pre-run event for run 26 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1300 states
+Dev1:    SimpleSetup: Path simplification took 0.064318 seconds and changed from 32 to 89 states
+Dev1:    Executing post-run event for run 26 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 27 of geometric_PRM
+Dev1:    Executing pre-run event for run 27 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1185 states
+Dev1:    SimpleSetup: Path simplification took 0.074381 seconds and changed from 31 to 105 states
+Dev1:    Executing post-run event for run 27 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 28 of geometric_PRM
+Dev1:    Executing pre-run event for run 28 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 3023 states
+Dev1:    SimpleSetup: Path simplification took 0.072604 seconds and changed from 34 to 97 states
+Dev1:    Executing post-run event for run 28 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Preparing for run 29 of geometric_PRM
+Dev1:    Executing pre-run event for run 29 of planner geometric_PRM ...
+Dev1:    Completed execution of pre-run event
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 945 states
+Dev1:    SimpleSetup: Path simplification took 0.080389 seconds and changed from 28 to 77 states
+Dev1:    Executing post-run event for run 29 of planner geometric_PRM ...
+Dev1:    Completed execution of post-run event
+Dev1:    Benchmark complete

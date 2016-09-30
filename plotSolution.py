@@ -16,7 +16,12 @@ def plot1(ax):
     plotAxisAlignedBox(0,-1.5,2,.5,ax)
 
 def plot2(ax):
-    plotAxisAlignedBox(-1.5,0,1,2,ax)
+    plotAxisAlignedBox(-0.5,1,1,1,ax)
+    plotAxisAlignedBox(-2.0,-0.5,1,1,ax)
+    plotAxisAlignedBox(-0.5,-0.5,1,1,ax)
+    plotAxisAlignedBox(1,-0.5,1,1,ax)
+    plotAxisAlignedBox(-0.5,-2.0,1,1,ax)
+    
 # Draw some obstacles
 def plotObstacles(ax):
     # Drawing the unit square

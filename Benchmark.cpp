@@ -82,7 +82,7 @@
    
        runtime_limit = 10.0;
        memory_limit  = 10000.0; // set high because memory usage is not always estimated correctly
-       run_count     = 50;
+       run_count     = 30;
    }
    
    void benchmark1(std::string& benchmark_name, app::SE3RigidBodyPlanning& setup,
@@ -120,7 +120,7 @@
    
        runtime_limit = 60.0;
        memory_limit  = 10000.0; // set high because memory usage is not always estimated correctly
-       run_count     = 50;
+       run_count     = 30;
    }
    
    void preRunEvent(const base::PlannerPtr& /*planner*/)
@@ -153,17 +153,17 @@
        b.setPostRunEvent(std::bind(&postRunEvent, std::placeholders::_1, std::placeholders::_2));
        
        b.addPlanner(base::PlannerPtr(new geometric::RT(setup.getSpaceInformation()))); 
-       b.addPlanner(base::PlannerPtr(new geometric::RRTConnect(setup.getSpaceInformation())));
+       //b.addPlanner(base::PlannerPtr(new geometric::RRTConnect(setup.getSpaceInformation())));
        b.addPlanner(base::PlannerPtr(new geometric::RRT(setup.getSpaceInformation())));
-       b.addPlanner(base::PlannerPtr(new geometric::BKPIECE1(setup.getSpaceInformation())));
-       b.addPlanner(base::PlannerPtr(new geometric::LBKPIECE1(setup.getSpaceInformation())));
+       //b.addPlanner(base::PlannerPtr(new geometric::BKPIECE1(setup.getSpaceInformation())));
+       //b.addPlanner(base::PlannerPtr(new geometric::LBKPIECE1(setup.getSpaceInformation())));
        b.addPlanner(base::PlannerPtr(new geometric::KPIECE1(setup.getSpaceInformation())));
        b.addPlanner(base::PlannerPtr(new geometric::SBL(setup.getSpaceInformation())));
        b.addPlanner(base::PlannerPtr(new geometric::EST(setup.getSpaceInformation())));
        b.addPlanner(base::PlannerPtr(new geometric::PRM(setup.getSpaceInformation())));
    
-       int sampler_id = argc > 2 ? ((argv[2][0] - '0') % 4) : -1;
-   
+       //int sampler_id = argc > 2 ? ((argv[2][0] - '0') % 4) : -1;
+       int sampler_id = 0;
        if (sampler_id == 0 || sampler_id < 0)
        {
            // run all planners with a uniform valid state sampler on the benchmark problem

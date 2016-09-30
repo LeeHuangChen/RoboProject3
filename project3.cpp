@@ -209,7 +209,7 @@ void planWithSimpleSetupSE2(const std::vector<Rectangle>& obstacles)
 }
 
 
-Rectangle box(int x, int y, double width, double height){
+/*Rectangle box(int x, int y, double width, double height){
     Rectangle obstacle;
     obstacle.x = x;
     obstacle.y = y;
@@ -217,7 +217,8 @@ Rectangle box(int x, int y, double width, double height){
     obstacle.height = height;
     return obstacle;
     
-}
+}*/
+
 void addObstacles1(std::vector<Rectangle>* obs){
     
     // obs->push_back(box(-0.5,-0.5,1.0,1.0));
@@ -244,17 +245,35 @@ void addObstacles1(std::vector<Rectangle>* obs){
 }
 void addObstacles2(std::vector<Rectangle>* obs){
     Rectangle obstacle1;
-    obstacle1.x = -1.5;
-    obstacle1.y = 0.0;
+    obstacle1.x = -0.5;
+    obstacle1.y = 1.0;
     obstacle1.width = 1.0;
-    obstacle1.height = 2.0;
+    obstacle1.height = 1.0;
     obs->push_back(obstacle1);
     Rectangle obstacle2;
-    obstacle2.x = -1.5;
-    obstacle2.y = 0.0;
+    obstacle2.x = -2.0;
+    obstacle2.y = -0.5;
     obstacle2.width = 1.0;
-    obstacle1.height = 2.0;
-    obs->push_back(obstacle1);
+    obstacle2.height = 1.0;
+    obs->push_back(obstacle2);
+    Rectangle obstacle3;
+    obstacle3.x = -0.5;
+    obstacle3.y = -0.5;
+    obstacle3.width = 1.0;
+    obstacle3.height = 1.0;
+    obs->push_back(obstacle3);
+    Rectangle obstacle4;
+    obstacle4.x = 1.0;
+    obstacle4.y = -0.5;
+    obstacle4.width = 1.0;
+    obstacle4.height = 1.0;
+    obs->push_back(obstacle4);
+    Rectangle obstacle5;
+    obstacle5.x = -0.5;
+    obstacle5.y = -2.0;
+    obstacle5.width = 1.0;
+    obstacle5.height = 1.0;
+    obs->push_back(obstacle5);
 }
 int main(int, char **)
 {
