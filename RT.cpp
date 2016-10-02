@@ -62,8 +62,12 @@ void ompl::geometric::RT::clear()
     Planner::clear();
     sampler_.reset();
     freeMemory();
-    if (nn_)
-        nn_->clear();
+
+    // if (motionList.size()>0)
+    //     motionList.clear();
+    if (motionList.size()>0)
+        motionList.clear();
+    //motionList.clear();
     lastGoalMotion_ = nullptr;
 }
 
@@ -73,27 +77,39 @@ void ompl::geometric::RT::setup()
     tools::SelfConfig sc(si_, getName());
     sc.configurePlannerRange(maxDistance_);
 
-    if (!nn_)
-        nn_.reset(tools::SelfConfig::getDefaultNearestNeighbors<Motion *>(this));
-    nn_->setDistanceFunction([this](const Motion *a, const Motion *b)
-                             {
-                                 return distanceFunction(a, b);
-                             });
+    // if (!nn_)
+    //     nn_.reset(tools::SelfConfig::getDefaultNearestNeighbors<Motion *>(this));
+    // nn_->setDistanceFunction([this](const Motion *a, const Motion *b)
+    //                          {
+    //                              return distanceFunction(a, b);
+    //                          });
 }
 
 void ompl::geometric::RT::freeMemory()
 {
-    if (nn_)
+    for (auto &motion : motionList)
     {
-        std::vector<Motion *> motions;
-        nn_->list(motions);
-        for (auto &motion : motions)
-        {
-            if (motion->state)
-                si_->freeState(motion->state);
-            delete motion;
-        }
+        //Motion *motion=motionList[i];
+        if (motion->state)
+            si_->freeState(motion->state);
+        delete motion;
     }
+    
+
+    // if (motionList)
+    // {
+    //     //std::vector<Motion *> motions;
+    //     //nn_->list(motions);
+    //     // for (auto &motion : motions)
+    //     // {
+    //     for (int i=0;i<motionList->size();i++)
+    //     {
+    //         Motion *motion=&motionList[i];
+    //         if (motion->state)
+    //             si_->freeState(motion->state);
+    //         delete motion;
+    //     }
+    // }
 }
 
 ompl::base::PlannerStatus ompl::geometric::RT::solve(const base::PlannerTerminationCondition &ptc)
@@ -106,10 +122,12 @@ ompl::base::PlannerStatus ompl::geometric::RT::solve(const base::PlannerTerminat
     {
         auto *motion = new Motion(si_);
         si_->copyState(motion->state, st);
-        nn_->add(motion);
+        motionList.push_back(motion);
+        // nn_->add(motion);
     }
 
-    if (nn_->size() == 0)
+    //if (nn_->size() == 0)
+    if (motionList.size() == 0)
     {
         OMPL_ERROR("%s: There are no valid initial states!", getName().c_str());
         return base::PlannerStatus::INVALID_START;
@@ -118,7 +136,8 @@ ompl::base::PlannerStatus ompl::geometric::RT::solve(const base::PlannerTerminat
     if (!sampler_)
         sampler_ = si_->allocStateSampler();
 
-    OMPL_INFORM("%s: Starting planning with %u states already in datastructure", getName().c_str(), nn_->size());
+    //OMPL_INFORM("%s: Starting planning with %u states already in datastructure", getName().c_str(), nn_->size());
+    OMPL_INFORM("%s: Starting planning with %u states already in datastructure", getName().c_str(), motionList.size());
 
     Motion *solution = nullptr;
     Motion *approxsol = nullptr;
@@ -140,13 +159,14 @@ ompl::base::PlannerStatus ompl::geometric::RT::solve(const base::PlannerTerminat
         //base::State *dstate = rstate;
 
         /*find a random motion in the tree*/
-        std::vector<Motion*> tempMotions;
-        nn_->list(tempMotions);
-        int randInt = (int) (tempMotions.size()*rng_.uniform01() );
-        Motion* nmotion = tempMotions[randInt];
+        //std::vector<Motion*> tempMotions;
+        //nn_->list(tempMotions);
+        //int randInt = (int) (tempMotions.size()*rng_.uniform01() );
+        int randInt = (int) (motionList.size()*rng_.uniform01() );
+        Motion* nmotion = motionList[randInt];
         base::State *dstate = rstate;
 
-        tempMotions.clear();
+        //tempMotions.clear();
 
         /* find state to add */
         // double d = si_->distance(nmotion->state, rstate);
@@ -163,7 +183,8 @@ ompl::base::PlannerStatus ompl::geometric::RT::solve(const base::PlannerTerminat
             si_->copyState(motion->state, dstate);
             motion->parent = nmotion;
 
-            nn_->add(motion);
+            //nn_->add(motion);
+            motionList.push_back(motion);
             double dist = 0.0;
             bool sat = goal->isSatisfied(motion->state, &dist);
             if (sat)
@@ -213,7 +234,8 @@ ompl::base::PlannerStatus ompl::geometric::RT::solve(const base::PlannerTerminat
         si_->freeState(rmotion->state);
     delete rmotion;
 
-    OMPL_INFORM("%s: Created %u states", getName().c_str(), nn_->size());
+    //OMPL_INFORM("%s: Created %u states", getName().c_str(), nn_->size());
+    OMPL_INFORM("%s: Created %u states", getName().c_str(), motionList.size());
 
     return base::PlannerStatus(solved, approximate);
 }
@@ -222,14 +244,14 @@ void ompl::geometric::RT::getPlannerData(base::PlannerData &data) const
 {
     Planner::getPlannerData(data);
 
-    std::vector<Motion *> motions;
-    if (nn_)
-        nn_->list(motions);
+    // std::vector<Motion *> motions;
+    // if (nn_)
+    //     nn_->list(motions);
 
     if (lastGoalMotion_)
         data.addGoalVertex(base::PlannerDataVertex(lastGoalMotion_->state));
 
-    for (auto &motion : motions)
+    for (auto &motion : motionList)
     {
         if (motion->parent == nullptr)
             data.addStartVertex(base::PlannerDataVertex(motion->state));
