@@ -113,15 +113,15 @@ namespace ompl
             }
 
             /** \brief Set a different nearest neighbors datastructure */
-            template <template <typename T> class NN>
-            void setNearestNeighbors()
-            {
-                if (nn_ && nn_->size() != 0)
-                    OMPL_WARN("Calling setNearestNeighbors will clear all states.");
-                clear();
-                nn_ = std::make_shared<NN<Motion *>>();
-                setup();
-            }
+            //template <template <typename T> class NN>
+            // void setNearestNeighbors()
+            // {
+            //     if (nn_ && nn_->size() != 0)
+            //         OMPL_WARN("Calling setNearestNeighbors will clear all states.");
+            //     clear();
+            //     nn_ = std::make_shared<NN<Motion *>>();
+            //     setup();
+            // }
 
             void setup() override;
 
@@ -164,7 +164,8 @@ namespace ompl
             base::StateSamplerPtr sampler_;
 
             /** \brief A nearest-neighbors datastructure containing the tree of motions */
-            std::shared_ptr<NearestNeighbors<Motion *>> nn_;
+            //std::shared_ptr<NearestNeighbors<Motion *>> nn_;
+            std::vector<Motion *> motionList;
 
             /** \brief The fraction of time the goal is picked as the state to expand towards (if such a state is
              * available) */
